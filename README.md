@@ -1,0 +1,2 @@
+# gitremote
+Bare repo
